@@ -1,7 +1,6 @@
-# IntagramAPI_nodeJS_OminiStak
+# IntagramAPI NodeJS "OminiStak"
 Simples API simulando o Instagram feito em nodeJS.
 
-Api baseada no Instagram.
 Funcionalidades:
 * Adicionar Fotos
 * Dar Like nas Fotos
