@@ -1,8 +1,12 @@
-# IntagramAPI NodeJS "OminiStak"
-Simples API simulando o Instagram feito em nodeJS.
+# IntagramAPI NodeJS with Express and Socket.io
+Simple API "Instagram simulating".
 
-Funcionalidades:
-* Adicionar Fotos
-* Dar Like nas Fotos
+Functionalities:
+* Publish Photos
+* Like in Photos
 
-Todas interações utilizado Socket.Io para interação RunTime entre qualquer plataforma.
+Used Tecnologies
+* Express
+* Mogoose
+* Cors
+* Socket.io
