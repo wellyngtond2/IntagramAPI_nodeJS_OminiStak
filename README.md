@@ -10,3 +10,7 @@ Used Tecnologies
 * Mogoose
 * Cors
 * Socket.io
+
+## Authors
+
+- **Wellyngton Borges** - [GitHub](https://github.com/wellyngtond2) - [Linkedin](https://www.linkedin.com/in/wellyngtonborges/)
